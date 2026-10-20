@@ -1,0 +1,15 @@
+10. erp_consultant.md # ERP Consultant ## Role guide An ERP (Enterprise Resource Planning) consultant helps organizations choose, configure and run software that joins finance, human res ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: business processes in finance, procurement, inventory, sales, manufacturing and HR, process mapping and business pro
+- Programming and data: SQL basics and strong spreadsheet skills. Technical consultants add scripting or a platform language.
+- Development environment: a sandbox or trial of one ERP platform, process modeling tools, and documentation habits.
+- Qualification: a degree in IT, business, finance or a related field is common, along with experience in business operations. Strong
+- Switching from another field: accountants, supply chain professionals and business analysts are common entrants. ### 2. Core and technical skill progression
+- Level 1, fundamentals: ERP concepts and one platform and module in depth, plus how to document a business process.
+- Level 2, core competencies: gathering requirements, fit-gap analysis, configuration, data migration, test planning and user accepta
+- Level 3, advanced: leading implementations through their phases (discovery, design, build, test, go-live and support), change manag ### 3. Practical tooling and ecosystem
+- Platforms: SAP S/4HANA, Oracle Cloud Applications, Microsoft Dynamics 365, NetSuite, Workday, Infor, Odoo.
+- Supporting tools: process modeling and workflow design tools, data migration tools, project and ticketing tools.
+- Credentials: platform-specific certifications and industry certificates. ### 4. Hands-on projects and portfolio milestones
+- Beginner: map an order-to-cash and a procure-to-pay process in diagrams.
+- Intermediate: configure a demo company in a trial or open-source ERP and run a sample sales and purchase cycle.
+- Advanced: write a mock implementation plan with a fit-gap analysis, a data migration approach, a test plan and training material.

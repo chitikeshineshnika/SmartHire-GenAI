@@ -1,0 +1,15 @@
+17. sdet.md # SDET (Software Development Engineer in Test) ## Role guide An SDET is a software engineer who specializes in quality. Instead of only running or scripting tests, an SDET designs and builds the ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: object-oriented programming, data structures and algorithms basics, design patterns (such as the Page Object Model),
+- Programming: strong skills in one language used in test code (Java, C#, TypeScript or Python), plus SQL.
+- Development environment: Git, Linux, an IDE, Docker basics, and a CI tool.
+- Switching from another field: developers learn test strategy, and manual or automation testers deepen their software engineering sk ### 2. Core and technical skill progression
+- Level 1, fundamentals: manual testing foundations, coding practice, first UI and API automation with Selenium or Playwright, and wr
+- Level 2, core competencies: framework design (page objects, data-driven, hybrid, BDD), API tests written in code for REST and Graph
+- Level 3, advanced: designing frameworks that stay maintainable and reusable, quality gates and parallel execution in pipelines, con ### 3. Practical tooling and ecosystem
+- Test tools: Playwright, Selenium, Cypress, Appium, REST Assured, Karate.
+- Languages: Java, C#, TypeScript, Python.
+- Delivery: Jenkins, GitLab CI, GitHub Actions, Azure DevOps, Docker.
+- Performance and API extras: JMeter or k6, Postman. ### 4. Hands-on projects and portfolio milestones
+- Beginner: automated UI and API tests for a demo app with clean structure.
+- Intermediate: a test framework with reports, test data handling and a CI pipeline, plus contract tests between two services.
+- Advanced: a containerized test platform with parallel execution, quality gates and a results dashboard, with documentation explaini

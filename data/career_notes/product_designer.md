@@ -1,0 +1,14 @@
+26. product_designer.md # Product Designer ## Role guide A product designer owns the design of a product from the first idea to the shipped feature and beyond. The role joins user experience ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: UX principles, visual design fundamentals, accessibility, and product thinking (user needs, business goals, metrics
+- Tools: Figma for design, prototyping and handoff, plus a basic understanding of analytics.
+- Development environment: a general understanding of how front-end code is built, so you can design what is feasible, and collaborat
+- Switching from another field: UX designers add visual and product skills, and UI designers add research and product thinking. Produ ### 2. Core and technical skill progression
+- Level 1, fundamentals: UX and UI foundations, wireframes, mockups and a first case study.
+- Level 2, core competencies: product discovery and problem framing, user flows, building and using a design system, prototypes for t
+- Level 3, advanced: product strategy and influencing the roadmap, systems thinking across a whole product, experimentation, design l ### 3. Practical tooling and ecosystem
+- Design: Figma, FigJam, prototyping tools such as Framer.
+- Product and data: analytics tools, experimentation platforms, Jira and product documentation tools.
+- Research support: usability testing tools and survey tools. ### 4. Hands-on projects and portfolio milestones
+- Beginner: redesign a sign-up or onboarding flow and state the metric you expect it to improve.
+- Intermediate: an end-to-end product case study covering the problem, research, design, prototype and a testing result.
+- Advanced: a case study with a measured outcome, a design system you built, and the experiment you designed to check whether it work

@@ -1,0 +1,16 @@
+23. ui_designer.md # UI Designer ## Role guide A UI (user interface) designer designs how a product looks: layouts, typography, colors, spacing, icons, buttons and the other compon ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: visual design fundamentals (typography, color theory, spacing, contrast, hierarchy), Gestalt principles such as prox
+- Tools: Figma is the industry standard for interface design, prototyping, collaboration and developer handoff. Adobe tools and Sketc
+- Development environment: basic HTML and CSS knowledge helps you design what developers can build.
+- Switching from another field: graphic designers, front-end developers and artists move across by learning interface patterns and Fi ### 2. Core and technical skill progression
+- Level 1, fundamentals: visual principles, Figma basics, and redesigning a simple mobile app screen using those principles. Good UI
+- Level 2, core competencies: components and auto layout, Figma styles and variants, responsive and mobile-first design, high-fidelit
+- Level 3, advanced: scalable design systems and tokens, motion and interaction design, accessibility to WCAG standards, production-q
+- One guide estimates that part-time study for about 6 to 9 months can produce a job-ready portfolio. Treat this as a rough estimate ### 3. Practical tooling and ecosystem
+- Design: Figma (with FigJam), Adobe XD or Illustrator, Sketch.
+- Prototyping and motion: Figma prototyping, Framer, motion tools.
+- Handoff and documentation: Figma Dev Mode, design system documentation.
+- Learning: books on design principles and the free resources from Figma. ### 4. Hands-on projects and portfolio milestones
+- Beginner: redesign one screen of an existing app and explain what you changed and why.
+- Intermediate: a complete landing page and a small multi-screen mobile app with a consistent style.
+- Advanced: a design system with documented components and rules, and a polished product UI kit with motion. Present each as a case s

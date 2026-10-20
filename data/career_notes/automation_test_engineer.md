@@ -1,0 +1,15 @@
+22. automation_test_engineer.md # Automation Test Engineer ## Role guide An automation test engineer writes code that tests software automatically, so checks run quickly and repeatedly instead of by hand. T ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: manual testing foundations (test design, defect life cycle), object-oriented programming, how web pages work (HTML,
+- Programming: one language well. Java, Python and JavaScript or TypeScript are the common choices.
+- Development environment: Git and GitHub, an IDE, the command line, Postman.
+- Switching from another field: manual testers and developers both move into this role. The manual tester adds coding, and the develo ### 2. Core and technical skill progression
+- Level 1, fundamentals: programming basics and OOP, locators and browser automation with Selenium or Playwright, running a first end
+- Level 2, core competencies: test frameworks (TestNG, JUnit or pytest), the Page Object Model, data-driven, hybrid and BDD framework
+- Level 3, advanced: parallel and cross-browser execution, Docker containers for test runs, reducing flaky tests, mobile automation w ### 3. Practical tooling and ecosystem
+- UI automation: Selenium, Playwright, Cypress, Appium.
+- Frameworks and runners: TestNG, JUnit, pytest, Cucumber.
+- API: REST Assured, Postman, Karate.
+- CI/CD and reporting: Jenkins, GitHub Actions, Azure DevOps, HTML report tools and dashboards. ### 4. Hands-on projects and portfolio milestones
+- Beginner: automate a login and a few user flows on a demo site.
+- Intermediate: a small framework from scratch with the Page Object Model, data-driven tests and reports, pushed to GitHub, and an AP
+- Advanced: a framework in a Docker container with parallel runs and a CI pipeline that runs on every commit and publishes a report.

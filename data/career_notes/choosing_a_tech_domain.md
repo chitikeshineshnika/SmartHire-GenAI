@@ -1,0 +1,14 @@
+2. choosing_a_tech_domain.md # How to Choose a Tech Domain or Role ## Role guide "Tech" covers many different careers: building user interfaces, servers and APIs, mobile apps, data analysis, data science, machine l ## Skill roadmap ### 1. Prerequisites and foundations
+- Know yourself: what do you enjoy? Visible results on screen (frontend, mobile, design), solving logic and data problems (backend, d
+- Know your starting point: your education, current skills, domain knowledge, time available and how soon you need a job.
+- Basics worth learning for almost any path: Git, the command line, SQL and one programming language. ### 2. Core and technical skill progression
+- Level 1, compare similar roles. Data analyst answers business questions with SQL, Excel and dashboards. Data scientist adds statist
+- Level 2, test before you commit: spend two to four weeks on a small project in each of two or three candidate paths (for example a
+- Level 3, decide with evidence: shortlist one main path and one backup, check how many entry-level openings exist in your area, chec ### 3. Practical tooling and ecosystem
+- Compare roles: role guides, roadmaps and job postings (read the "requirements" sections).
+- Try things cheaply: free tiers on cloud platforms, free notebooks, Figma's free plan, open datasets, beginner courses and hackathon
+- Get feedback: mentors, communities and people in the role. ### 4. Hands-on projects and portfolio milestones
+- Beginner: one small project in each of two or three directions.
+- Intermediate: go deeper in the one you enjoyed, with a project that solves a real problem and is deployed or shared.
+- Advanced: a portfolio of two or three strong projects in your chosen domain, matched to the skills in the job postings you want.
+- Common mistakes: choosing only by salary or trends, learning five domains at once, and waiting for a perfect choice before starting

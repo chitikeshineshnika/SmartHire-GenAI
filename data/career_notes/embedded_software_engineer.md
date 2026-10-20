@@ -1,0 +1,15 @@
+21. embedded_software_engineer.md # Embedded Software Engineer ## Role guide An embedded software engineer designs, develops and tests the software that controls the functions of electronic devices, from smartw ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: digital electronics and basic circuits, how microcontrollers and microprocessors work (ARM, AVR, PIC, 8051), memory
+- Programming: C first, then C++. Python for scripting, testing and automation.
+- Development environment: development boards (Arduino, STM32, ESP32), IDEs such as Keil, IAR, STM32CubeIDE or PlatformIO, Git, and b
+- Switching from another field: electronics and computer engineers are the usual route, and software developers can enter by learning ### 2. Core and technical skill progression
+- Level 1, fundamentals: GPIO, timers, interrupts, ADC and PWM, serial communication with UART, SPI and I2C, and simple projects such
+- Level 2, core competencies: a real-time operating system (FreeRTOS or Zephyr), task scheduling and synchronization, writing drivers
+- Level 3, advanced: bootloaders and over-the-air updates, low-power design, security, firmware architecture, automated and hardware- ### 3. Practical tooling and ecosystem
+- Languages and boards: C, C++, ARM Cortex-M boards, STM32, ESP32, Arduino.
+- RTOS and libraries: FreeRTOS, Zephyr, vendor HAL libraries.
+- Debug and build: JTAG or SWD debuggers, oscilloscopes, logic analyzers, CMake or Make, Git.
+- Protocols: UART, SPI, I2C, CAN, plus Bluetooth Low Energy, Wi-Fi and Ethernet later. ### 4. Hands-on projects and portfolio milestones
+- Beginner: LED and button control, a simple UART echo with a PC.
+- Intermediate: a temperature sensor over I2C with an LCD display, and an RTOS-based smart sensor node.
+- Advanced: your own hardware abstraction layer, a secure bootloader or an over-the-air firmware updater, and a documented, tested de

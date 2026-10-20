@@ -1,0 +1,17 @@
+4. linux_administrator.md # Linux Administrator ## Role guide A Linux administrator installs, configures, maintains and secures Linux servers. The work covers users and permissions, processes and ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: the Linux file system hierarchy, how processes and services work, and networking basics (TCP/IP, DNS, DHCP, NTP).
+- Programming: Bash shell scripting first, with Python as a useful addition.
+- Development environment: a Linux virtual machine on your own computer, the command line, a text editor such as vim or nano, and Git
+- Switching from another field: help desk and Windows administration are the usual routes. A computer science or IT degree is common, ### 2. Core and technical skill progression
+- Level 1, fundamentals: Linux commands, file management, permissions, users and groups, process management, package management and t
+- Level 2, core competencies (RHCSA level): services with systemd, partitions and file systems, logical volume management, network co
+- Level 3, advanced: automation with Ansible (RHCE), system hardening, high availability, performance tuning, enterprise monitoring
+- One 12-month learning path spreads the learning over phases: Linux basics, RHCSA preparation around months 3 and 4, advanced admini ### 3. Practical tooling and ecosystem
+- Systems: Red Hat Enterprise Linux and compatible systems, Ubuntu, systemd, firewalld and iptables, SELinux.
+- Storage: LVM, RAID, NFS.
+- Automation: Bash, Python, Ansible.
+- Monitoring: Nagios, Zabbix, Prometheus, Grafana.
+- Virtualization and containers: KVM, Docker. ### 4. Hands-on projects and portfolio milestones
+- Beginner: set up a Linux virtual machine, create users and permissions, and write a script that performs regular system checks and
+- Intermediate: build a three-node Linux lab with logical volume storage, a shared file system over NFS, a firewall, SELinux in enfor
+- Advanced: automate the whole lab setup with Ansible, add Prometheus and Grafana monitoring, write a hardening checklist and run fai

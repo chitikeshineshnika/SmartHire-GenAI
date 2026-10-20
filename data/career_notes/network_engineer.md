@@ -1,0 +1,17 @@
+6. network_engineer.md # Network Engineer ## Role guide A network engineer designs, implements, manages and troubleshoots computer networks: local networks (LAN), wide area networks (WAN), ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: the OSI and TCP/IP models, IP addressing and subnetting, Ethernet, and the role of devices such as routers, switches
+- Programming: scripting in Python, Bash or PowerShell for automation, which matters more every year.
+- Development environment: the command-line interface of network devices, a network simulator or lab tool for practice, and Wireshark
+- Switching from another field: help desk, system administration and IT support are common starting points. Hands-on practice in a si ### 2. Core and technical skill progression
+- Level 1, fundamentals: core protocols (TCP, UDP, IP, HTTP and HTTPS, DNS, DHCP, ARP, ICMP, SNMP), routing and switching basics (sta
+- Level 2, core competencies: routing protocols (OSPF, EIGRP, BGP), network design (topologies, redundancy, scalability, reliability
+- Level 3, advanced: network automation and programmability (Python, Ansible, APIs), zero trust designs, software-defined networking
+- One plan spreads the learning over about a year: roughly 3 months of foundations, 5 months of design, security and wireless, then 4 ### 3. Practical tooling and ecosystem
+- Network platforms: Cisco, Juniper, and firewalls from vendors such as Palo Alto and Fortinet.
+- Monitoring and analysis: Wireshark, Nagios, Zabbix, SolarWinds.
+- Automation: Python and Ansible.
+- Cloud: virtual networks on AWS, Azure or Google Cloud.
+- Practice tools: network simulators and emulators for building labs. ### 4. Hands-on projects and portfolio milestones
+- Beginner: subnetting practice and a small office network in a simulator with VLANs and static routes.
+- Intermediate: a multi-site network with OSPF, access control lists and a site-to-site VPN, with diagrams, and a Wireshark capture w
+- Advanced: automate configuration backups and changes with Python or Ansible, and design hybrid connectivity between an office netwo

@@ -1,0 +1,16 @@
+7. infrastructure_engineer.md # Infrastructure Engineer ## Role guide An infrastructure engineer designs, builds and operates the infrastructure that applications run on: physical and virtual servers, st ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: server and operating system basics, networking (TCP/IP, VLANs, routing, firewalls, VPNs, load balancers), storage co
+- Programming: Bash, Python and PowerShell for automation.
+- Development environment: a home lab with a hypervisor and several virtual machines, Git, and the command line on Linux and Windows
+- Switching from another field: system administrators, network administrators and help desk staff with hands-on experience move into ### 2. Core and technical skill progression
+- Level 1, fundamentals: Windows and Linux server administration, networking fundamentals, basic virtualization and basic monitoring
+- Level 2, core competencies: virtualization platforms (VMware vSphere, Hyper-V, KVM or Proxmox), storage systems with backup and rep
+- Level 3, advanced: designing for high availability and disaster recovery, capacity planning, performance tuning, hybrid cloud, cont ### 3. Practical tooling and ecosystem
+- Virtualization: VMware vSphere, Hyper-V, KVM, Proxmox, Nutanix.
+- Automation: Terraform, Ansible, CloudFormation, Pulumi, and scripting.
+- Monitoring and logging: Prometheus, Grafana, Zabbix, Nagios, ELK.
+- Storage and networking: SAN, NAS, Ceph, ZFS, enterprise switches and firewalls.
+- Cloud: AWS, Azure, Google Cloud. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a virtualization lab with several virtual machines and basic networking.
+- Intermediate: automate virtual machine provisioning with Ansible or Terraform, and build monitoring dashboards with alerts.
+- Advanced: design a highly available infrastructure with backup and replication, test a disaster recovery drill, and document it wit

@@ -1,0 +1,15 @@
+15. iot_developer.md # IoT Developer ## Role guide An IoT (Internet of Things) developer builds connected devices and the systems around them from end to end: sensors and microcontroll ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: basic electronics (sensors, actuators, power), networking (Wi-Fi, TCP/IP), how cloud services work, and IoT architec
+- Programming: C or C++ for microcontrollers, Python or MicroPython for quick prototypes and cloud scripts, and basic JavaScript for
+- Development environment: Arduino IDE, PlatformIO in VS Code, or ESP-IDF, Git, and a few development boards such as an ESP32 and a R
+- Switching from another field: electronics students and software developers both move in easily, since each side learns the other's ### 2. Core and technical skill progression
+- Level 1, fundamentals: programming a microcontroller (Arduino, NodeMCU or ESP32), GPIO, reading sensors and controlling actuators,
+- Level 2, core competencies: IoT protocols (MQTT, HTTP and REST, CoAP, Bluetooth Low Energy, LoRa), running an MQTT broker such as M
+- Level 3, advanced: IoT security (TLS encryption, protected credentials, secure over-the-air updates), edge, fog and cloud computing ### 3. Practical tooling and ecosystem
+- Hardware: ESP32, NodeMCU, Arduino, Raspberry Pi, common sensors.
+- Software: MicroPython, Arduino (C++), ESP-IDF, PlatformIO.
+- Messaging and cloud: MQTT with Mosquitto, AWS IoT Core, Azure IoT, ThingsBoard, Node-RED.
+- Data and dashboards: InfluxDB, Grafana, Docker. ### 4. Hands-on projects and portfolio milestones
+- Beginner: read a temperature and humidity sensor and print it over serial, control a relay from a button.
+- Intermediate: an IoT weather station that publishes over MQTT to a cloud dashboard, and a home automation project controlled from a
+- Advanced: an end-to-end product with a mobile app, a secured cloud pipeline with encryption and over-the-air updates, and monitorin

@@ -1,0 +1,14 @@
+8. tech_resume_guide.md # How to Write a Tech Resume (All Experience Levels) ## Role guide A tech resume has one job: to get you the interview. Large companies often use Applicant Tracking Systems (ATS) that scan resumes for ## Skill roadmap ### 1. Prerequisites and foundations
+- Know the target role first. Read several job postings for it and note the recurring skills, tools and responsibilities. Some guides
+- Collect your raw material: projects, internships, jobs, certifications, achievements and links (GitHub, portfolio, LinkedIn).
+- Tools: a simple word processor, saved as PDF or DOCX as the employer asks. Avoid design tools such as Canva, graphics and charts, b ### 2. Core and technical skill progression
+- Level 1, structure and format: keep it to one page if you are a student or early in your career (one guide says one page is correct
+- Level 2, content that works: write every bullet as an action verb, what you did, and a measurable result (for example, "improved en
+- Level 3, tailoring and polish: change your resume for each job by using the exact keywords from the posting naturally in your skill ### 3. Practical tooling and ecosystem
+- Writing: a plain document editor and a PDF export.
+- Checking: ATS resume checkers, a proofreader and a mentor review.
+- Evidence: a GitHub profile with readable READMEs, a portfolio site for designers and developers, and optional certifications. ### 4. Hands-on projects and portfolio milestones
+- Beginner: write a one-page resume with a skills section, two or three projects and education.
+- Intermediate: rewrite every bullet in the action, task and result format, add numbers, and create a tailored version for one specif
+- Advanced: keep a master resume of everything you have done and cut it down for each application. Pair it with a portfolio and a sho
+- Common mistakes: one resume for all jobs, long paragraphs instead of bullets, padding the skills list, giving a non-tech job four b

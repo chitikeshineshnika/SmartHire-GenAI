@@ -1,0 +1,15 @@
+16. systems_software_engineer.md # Systems Software Engineer ## Role guide A systems software engineer develops low-level software that interacts directly with hardware or system infrastructure: operating sys ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: operating system internals (processes, threads, scheduling, virtual memory, interrupts, I/O, synchronization), compu
+- Programming: strong C, then C++. Python for scripting and tests.
+- Development environment: Linux, GDB, Valgrind, perf, Git, build systems (Make, CMake), and QEMU or virtual machines for safe experi
+- Switching from another field: embedded engineers, backend developers and security engineers move across by deepening their OS and C ### 2. Core and technical skill progression
+- Level 1, fundamentals: C proficiency, data structures, Linux system programming (system calls, processes, signals, file I/O), and d
+- Level 2, core competencies: concurrency and multithreading, memory management, networking with sockets, Linux kernel modules and si
+- Level 3, advanced: kernel internals, drivers for several classes of devices (bus, block, wireless, display, USB), new hardware brin ### 3. Practical tooling and ecosystem
+- Languages: C, C++.
+- Platforms: Linux kernel, and sometimes Windows or macOS kernel frameworks.
+- Debug and performance tools: GDB, Valgrind, perf, kernel debuggers, WinDbg on Windows.
+- Hardware interfaces: PCIe, SPI, I2C, USB, DMA. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a small shell, a thread pool or a simple memory allocator in C.
+- Intermediate: a Linux kernel module and a character device driver.
+- Advanced: a driver for a real peripheral on a development board, with documentation, and a patch contributed to an open-source proj

@@ -1,0 +1,15 @@
+13. enterprise_application_developer.md # Enterprise Application Developer ## Role guide An enterprise application developer designs, builds, integrates and maintains the large business applications that organizations run ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: object-oriented design, databases and SQL, web services and HTTP, XML and JSON, and enterprise architecture ideas su
+- Programming: Java (with Spring Boot) or C# and .NET.
+- Development environment: Git, an IDE, Maven or NuGet, Linux basics, and a CI tool.
+- Switching from another field: developers from web, mobile or testing backgrounds can move in. Knowledge of the business domain, suc ### 2. Core and technical skill progression
+- Level 1, fundamentals: Java or .NET fundamentals, a web framework, REST APIs, SQL, and unit testing. A common learning project is a
+- Level 2, core competencies: SOAP and REST web services, enterprise integration patterns, messaging with IBM MQ, Kafka or RabbitMQ,
+- Level 3, advanced: integration platforms (Apache Camel, Red Hat Fuse, IBM App Connect, MuleSoft), designing for high availability a ### 3. Practical tooling and ecosystem
+- Languages and frameworks: Java, Spring Boot, .NET.
+- Integration and messaging: IBM MQ, Apache Kafka, RabbitMQ, Apache Camel, MuleSoft, ESB platforms.
+- Servers and databases: Tomcat, WebLogic, JBoss, SQL Server, Oracle.
+- Workflow and low-code: BPMN workflow platforms and low-code tools in some organizations. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a banking or inventory application with a database and REST API.
+- Intermediate: a service that exposes both REST and SOAP interfaces, and an integration between two systems through a message queue
+- Advanced: an integration flow built with Apache Camel or a similar tool, with error handling, monitoring and a short architecture w

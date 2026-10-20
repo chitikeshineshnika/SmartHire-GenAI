@@ -1,0 +1,15 @@
+25. robotics_software_engineer.md # Robotics Software Engineer ## Role guide A robotics software engineer writes the software that lets robots sense, decide and act. The areas include perception (cameras, LiDAR ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: linear algebra, calculus and probability, kinematics and dynamics basics, coordinate frames and transforms, data str
+- Programming: C++ and Python.
+- Development environment: Ubuntu Linux, ROS or ROS 2, Git, Docker, and simulators such as Gazebo or Isaac Sim.
+- Switching from another field: mechatronics, electronics, computer science and mechanical engineers all enter this field. A degree i ### 2. Core and technical skill progression
+- Level 1, fundamentals: programming plus ROS 2 basics (nodes, topics, services, actions, TF), robot descriptions (URDF) and running
+- Level 2, core competencies: perception with OpenCV and point clouds, sensor fusion and state estimation (EKF and UKF), SLAM and loc
+- Level 3, advanced: manipulation, real-time performance on edge computers, machine-learning perception with PyTorch or TensorFlow, s ### 3. Practical tooling and ecosystem
+- Frameworks: ROS 2, Nav2, MoveIt, Eigen, OpenCV.
+- Simulation: Gazebo, Isaac Sim.
+- Sensors: cameras, LiDAR, IMU, wheel encoders, GNSS.
+- Tools: Docker, Git, CI, logging and telemetry tools. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a simulated differential-drive robot driven from the keyboard, with a ROS 2 node that reads a sensor.
+- Intermediate: autonomous navigation in simulation with Nav2 and SLAM, and an object detection node.
+- Advanced: a manipulator pick-and-place with MoveIt, and deployment on a real robot with telemetry and a documented sim-to-real comp

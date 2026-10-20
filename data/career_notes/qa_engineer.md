@@ -1,0 +1,16 @@
+12. qa_engineer.md # QA Engineer ## Role guide A QA (quality assurance) engineer makes sure software works as intended before and after release. The work includes understanding req ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: the software development life cycle (SDLC) and software testing life cycle (STLC), Agile and Scrum, testing types (f
+- Programming: SQL, because many QA roles need database queries to check data. A programming language such as Python, Java or JavaScr
+- Development environment: Jira for bug tracking, TestRail or Excel for test cases, Postman for APIs, Git and GitHub.
+- Soft skills: communication, teamwork, attention to detail and problem solving matter as much as tools. ### 2. Core and technical skill progression
+- Level 1, fundamentals: writing test plans, scenarios and test cases, black-box design techniques (equivalence partitioning and boun
+- Level 2, core competencies: API testing (HTTP methods, JSON validation) with Postman, SQL checks on data, test management, basic we
+- Level 3, advanced: automation frameworks (Page Object Model, data-driven), CI/CD integration, performance basics with JMeter, secur
+- Common mistakes: learning tools without the concepts behind them, and jumping to automation before manual testing is solid. ### 3. Practical tooling and ecosystem
+- Tracking and management: Jira, TestRail, Bugzilla.
+- API and data: Postman, SQL clients.
+- Automation: Selenium, Playwright, Cypress, Appium for mobile, pytest, JUnit, TestNG.
+- Pipelines: Jenkins, GitHub Actions. ### 4. Hands-on projects and portfolio milestones
+- Beginner: write test cases for a real website or app, find bugs and document them, and publish the work on GitHub.
+- Intermediate: a Postman collection for a public API with assertions, and a full test plan with test cases and a bug report set for
+- Advanced: a complete test strategy for a sample application with manual, API and automated checks running in a pipeline.

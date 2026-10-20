@@ -1,0 +1,16 @@
+18. systems_administrator.md # Systems Administrator ## Role guide A systems administrator installs, configures, maintains and secures an organization's servers and user systems, usually both Windows ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: how operating systems work (Windows Server and Linux), networking basics (TCP/IP, DNS, DHCP, time synchronization),
+- Programming: PowerShell for Windows and Bash or Python for Linux and cross-platform automation.
+- Development environment: a home lab with virtual machines, the command line on both systems, and documentation habits.
+- Switching from another field: IT support and help desk are the most common starting points, and certifications such as CompTIA A+ a ### 2. Core and technical skill progression
+- Level 1, fundamentals: IT support basics, Windows and Linux basics, user and group management, file permissions, and basic troubles
+- Level 2, core competencies: Active Directory and Group Policy, DNS and DHCP servers, file and print services, patch management, bac
+- Level 3, advanced: automation with Ansible, PowerShell and Terraform, hybrid and cloud administration (AWS or Azure), disaster reco ### 3. Practical tooling and ecosystem
+- Operating systems and directory: Windows Server, Active Directory, Group Policy, Linux distributions.
+- Virtualization: VMware vSphere, Hyper-V.
+- Automation: PowerShell, Bash, Ansible.
+- Monitoring: Nagios, Zabbix.
+- Cloud and identity: Microsoft 365, Azure, AWS. ### 4. Hands-on projects and portfolio milestones
+- Beginner: build a small domain in a home lab with a domain controller, users and group policies.
+- Intermediate: automate user creation with PowerShell, and set up backups and test a restore.
+- Advanced: build a highly available service with monitoring, automate patching, and write a disaster recovery runbook.

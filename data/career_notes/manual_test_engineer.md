@@ -1,0 +1,15 @@
+24. manual_test_engineer.md # Manual Test Engineer ## Role guide A manual test engineer checks software by using it the way a real user would, without automation tools. The process generally runs fr ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: computer basics, SDLC, STLC, Waterfall and Agile (including Scrum), testing types, black-box and white-box testing,
+- Programming: none required to begin. SQL is a strong plus, and basic HTML and CSS help you understand web pages.
+- Development environment: Jira or similar for bugs, TestRail or spreadsheets for test cases, and a browser with developer tools.
+- Switching from another field: people with domain knowledge in banking, healthcare or e-commerce have a real advantage. ### 2. Core and technical skill progression
+- Level 1, fundamentals: reading requirements, writing test scenarios and test cases, test plans, the bug life cycle, and writing cle
+- Level 2, core competencies: exploratory testing beyond the script, regression planning (and when to use smoke or sanity testing), A
+- Level 3, advanced: risk-based testing, test strategy, mentoring newer testers, domain specialization, and starting automation (basi ### 3. Practical tooling and ecosystem
+- Test and defect management: Jira, TestRail, Bugzilla, spreadsheets.
+- API and data: Postman, SQL clients.
+- Device and browser checks: browser developer tools, cloud device and browser testing platforms.
+- Certification often named: ISTQB Foundation. ### 4. Hands-on projects and portfolio milestones
+- Beginner: write test cases for a familiar app such as a shopping or messaging app.
+- Intermediate: test a demo e-commerce site end to end, log defects in a tracker, and write a test summary report.
+- Advanced: a full test cycle for a sample project (plan, cases, execution, defect triage, regression pack) with a short document exp

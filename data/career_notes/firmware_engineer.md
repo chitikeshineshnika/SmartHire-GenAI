@@ -1,0 +1,15 @@
+19. firmware_engineer.md # Firmware Engineer ## Role guide A firmware engineer develops, tests and maintains the low-level code that runs directly on a device's hardware. Responsibilities incl ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: digital and basic analog electronics, microcontroller architecture (ARM Cortex-M is most common), memory and registe
+- Programming: Embedded C is essential, with C++ and assembly knowledge useful. Python for tooling and tests.
+- Development environment: Keil, IAR, MPLAB, STM32CubeIDE, ESP-IDF or PlatformIO, Git, a debugger probe, and the ability to read data
+- Switching from another field: electronics graduates are common, and software developers can enter by building hardware projects. ### 2. Core and technical skill progression
+- Level 1, fundamentals (junior): Embedded C, UART, SPI, I2C, USB and CAN basics, simple firmware features and defect fixing. A first
+- Level 2, core competencies (intermediate): an RTOS such as FreeRTOS, writing your own hardware abstraction layer for GPIO, UART and
+- Level 3, advanced: bootloaders over UART, USB and over the air, secure firmware, firmware architecture design, optimization for mem ### 3. Practical tooling and ecosystem
+- Languages: Embedded C, C++, assembly.
+- IDEs and tools: Keil, IAR, MPLAB, STM32CubeIDE, ESP-IDF, PlatformIO, debuggers and emulators.
+- Operating systems: FreeRTOS, Zephyr, bare-metal approaches.
+- Protocols: UART, SPI, I2C, CAN, USB, BLE, TCP/IP, MQTT. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a UART echo, then a temperature sensor on I2C with an LCD.
+- Intermediate: an RTOS-based smart sensor node and your own mini hardware abstraction layer.
+- Advanced: a bootloader with an over-the-air firmware updater and a secure update check, and contributions to an open-source firmwar

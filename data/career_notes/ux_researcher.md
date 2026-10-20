@@ -1,0 +1,14 @@
+5. ux_researcher.md # UX Researcher ## Role guide A UX researcher studies user behavior, needs and pain points to improve a product and to help teams avoid building the wrong thing. T ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: research fundamentals (qualitative and quantitative), basic statistics, research ethics and participant consent, and
+- Skills: active listening, empathy, communication and storytelling, plus persistence and problem solving.
+- Development environment: survey tools, remote usability testing tools, spreadsheets, notes and recording tools.
+- Switching from another field: transferable skills such as interviewing, synthesis and communication carry over, but you still need ### 2. Core and technical skill progression
+- Level 1, fundamentals: user interviews and moderated usability testing first, because these are the most commonly required skills i
+- Level 2, core competencies: survey design, synthesis (affinity mapping, themes), personas and journey maps, mixed-methods research,
+- Level 3, advanced: research strategy that shapes the roadmap, continuous discovery with product teams, experiment and A/B test anal ### 3. Practical tooling and ecosystem
+- Methods: interviews, surveys, usability studies, diary studies, card sorting, A/B tests, accessibility testing.
+- Tools: remote testing tools (Maze, Lookback), survey tools, analytics tools, research repositories.
+- Reading: books such as Just Enough Research and Interviewing Users are commonly recommended. ### 4. Hands-on projects and portfolio milestones
+- Beginner: five user interviews about an everyday task, with a summary of themes.
+- Intermediate: a usability test of a public website with five participants, a prioritized list of problems and a short report. Volun
+- Advanced: a mixed-methods study (interviews plus a survey) on a real product, with recommendations presented to stakeholders.

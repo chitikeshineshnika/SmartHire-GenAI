@@ -1,0 +1,14 @@
+11. performance_test_engineer.md # Performance Test Engineer ## Role guide A performance test engineer checks how an application behaves under real-world and peak load: how fast it responds, how many users it ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: testing fundamentals, how web applications and APIs work (HTTP, requests and responses), networking basics, operatin
+- Programming: scripting in Java, JavaScript, Groovy or Python depending on the tool, plus SQL.
+- Development environment: JMeter, Postman, Git, and monitoring dashboards.
+- Switching from another field: QA engineers, automation testers and developers move across most easily. ### 2. Core and technical skill progression
+- Level 1, fundamentals: performance testing concepts, building JMeter test plans, parameterization and correlation, and reading basi
+- Level 2, core competencies: modern tools (k6 with JavaScript, Gatling with its Scala or Java DSL, awareness of LoadRunner), workloa
+- Level 3, advanced: distributed load generation (for example on Kubernetes or with cloud tools such as BlazeMeter), capacity plannin ### 3. Practical tooling and ecosystem
+- Load tools: Apache JMeter, k6, Gatling, LoadRunner, BlazeMeter, Artillery.
+- Monitoring: Grafana, Prometheus, InfluxDB, APM tools.
+- Pipelines: Jenkins, GitHub Actions. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a JMeter test for a sample web app with a simple report.
+- Intermediate: a k6 script with thresholds, stages and a Grafana dashboard.
+- Advanced: design a load test for a peak-traffic event such as a big sale on an e-commerce checkout, plus a soak test that hunts a m

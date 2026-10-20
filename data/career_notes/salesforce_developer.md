@@ -1,0 +1,14 @@
+14. salesforce_developer.md # Salesforce Developer ## Role guide A Salesforce developer customizes and extends the Salesforce CRM platform so a company can manage customers, sales and service in the ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: CRM ideas (leads, accounts, contacts, opportunities, cases), relational data modeling, and the Salesforce platform a
+- Programming: object-oriented programming (Apex is similar to Java), SOQL, and web basics (HTML, CSS and JavaScript for LWC).
+- Development environment: a free Salesforce Developer Edition org, Trailhead for guided learning, VS Code with Salesforce extensions
+- Switching from another field: administrators add coding, Java and JavaScript developers add platform knowledge, and business analys ### 2. Core and technical skill progression
+- Level 1, fundamentals: Salesforce Administrator skills (objects, fields, page layouts, security, reports and dashboards, automation
+- Level 2, core competencies: Apex classes and triggers, SOQL and SOSL, DML operations, governor limits and bulkification, test class
+- Level 3, advanced: asynchronous Apex (batch and queueable), integrations with REST and SOAP callouts, event-driven design with Plat ### 3. Practical tooling and ecosystem
+- Platform tools: Apex, SOQL, Lightning Web Components, Flow, Visualforce.
+- Development: VS Code, Salesforce CLI, scratch orgs, Git.
+- Learning and certification: Trailhead, Administrator, Platform App Builder, Platform Developer I and II. ### 4. Hands-on projects and portfolio milestones
+- Beginner: custom objects, fields and a Flow that automates a business rule.
+- Intermediate: an Apex trigger with a test class that follows bulkification rules, and a Lightning Web Component on a record page.
+- Advanced: a complete app that combines admin and developer skills, with an integration to an outside API, and deployed with source

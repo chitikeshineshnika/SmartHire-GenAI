@@ -1,0 +1,15 @@
+27. network_administrator.md # Network Administrator ## Role guide A network administrator keeps an organization's network running day to day. The work includes configuring and maintaining routers, sw ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: networking fundamentals (OSI and TCP/IP, IP addressing, subnetting), how Windows and Linux connect to a network, and
+- Programming: light scripting in PowerShell or Bash to automate repeated tasks.
+- Development environment: a home or simulator lab, SSH or terminal tools for connecting to devices, and a habit of documenting what
+- Switching from another field: IT support and help desk staff are the most common entrants. ### 2. Core and technical skill progression
+- Level 1, fundamentals: cabling, network devices, wireless basics, DHCP, DNS, switching, and basic troubleshooting with ping, tracer
+- Level 2, core competencies: configuring routers and switches from the command line, VLANs, access control lists, firewalls and VPN
+- Level 3, advanced: automating routine tasks, hardening network security, capacity planning, working with vendors, and moving toward ### 3. Practical tooling and ecosystem
+- Devices and vendors: Cisco, Juniper, Fortinet, Palo Alto.
+- Monitoring: Wireshark, Nagios, Zabbix, SolarWinds.
+- Services: DHCP and DNS servers, VPN gateways, wireless controllers.
+- Workflow: ticketing systems and network diagrams. ### 4. Hands-on projects and portfolio milestones
+- Beginner: a small home or office network in a simulator.
+- Intermediate: configure a small business network with VLANs, DHCP, DNS and guest Wi-Fi in a simulator, and document it.
+- Advanced: set up monitoring with alerts, automate configuration backups, and write an incident report for a simulated outage with t

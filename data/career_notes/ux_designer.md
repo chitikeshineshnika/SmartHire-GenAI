@@ -1,0 +1,15 @@
+20. ux_designer.md # UX Designer ## Role guide A UX (user experience) designer takes care of the end-to-end experience of a product, from the first screen to finishing a task. The ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: design thinking, usability principles and the Laws of UX, basic psychology of how people perceive and decide, access
+- Tools: Figma for wireframes and prototypes, plus tools for usability testing such as Maze or Lookback.
+- Development environment: whiteboards and sketching, collaboration tools, and basic knowledge of what developers can build.
+- Switching from another field: people from graphic design, front-end development, research and product management move in. Prior UI ### 2. Core and technical skill progression
+- Level 1, fundamentals: UX basics, personas, user journeys, information architecture, wireframing in Figma, and simple usability tes
+- Level 2, core competencies: completing an end-to-end case study from research to prototype, interaction design, accessible design,
+- Level 3, advanced: design systems, UX strategy, mixed-methods research, measuring outcomes (task success, time on task, satisfactio
+- One roadmap suggests roughly 6 to 9 months of part-time study to reach a job-ready portfolio, with a job search stretching toward t ### 3. Practical tooling and ecosystem
+- Design and prototyping: Figma, Framer, Adobe XD, Sketch.
+- Research and testing: Maze, Lookback, survey tools, analytics.
+- Collaboration: FigJam, Miro, Jira. ### 4. Hands-on projects and portfolio milestones
+- Beginner: sketch and wireframe a simple app idea, such as a coffee shop ordering app, and test it on five people.
+- Intermediate: an end-to-end UX case study with research, flows, wireframes, a clickable prototype and test findings.
+- Advanced: three polished case studies, one of them a redesign of a real product with a measurable goal, and a design critique you l

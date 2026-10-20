@@ -1,0 +1,15 @@
+9. sap_consultant_developer.md # SAP Consultant / SAP Developer ## Role guide SAP professionals work on SAP, the enterprise software many large companies run their finance, procurement, sales, manufacturing and ## Skill roadmap ### 1. Prerequisites and foundations
+- Core concepts: business processes in finance, procurement, sales and manufacturing, ERP ideas, databases and SQL. For the technical
+- Programming: ABAP for the technical track. SQL and some JavaScript for Fiori and UI5 development.
+- Development environment: SAP GUI, SAP training and learning systems (the SAP Learning Hub and SAP Learning Journeys), and an editor
+- Switching from another field: accountants, supply chain and sales professionals often become functional consultants, and Java and o ### 2. Core and technical skill progression
+- Level 1, fundamentals: ERP concepts, one module's business process end to end (for example FI, MM or SD), or the ABAP basics (data
+- Level 2, core competencies: object-oriented ABAP, BAPIs, BAdIs, user exits, the enhancement framework, IDocs and ALE, workflows and
+- Level 3, advanced: the RESTful ABAP programming model (RAP), the clean core approach and side-by-side extensions on SAP Business Te ### 3. Practical tooling and ecosystem
+- Core: SAP S/4HANA, SAP ECC, ABAP, SAP HANA.
+- Front end and services: SAPUI5, Fiori Elements, OData, SAP Gateway.
+- Quality and transport: ABAP Test Cockpit, ABAP Unit, change and transport management, Git.
+- Process tools: SAP Signavio for process modeling. ### 4. Hands-on projects and portfolio milestones
+- Beginner: an ALV report and a Smart Form, or walk through a standard purchasing or sales process in a training system.
+- Intermediate: an OData service with a Fiori app, or a configured end-to-end order-to-cash scenario.
+- Advanced: a RAP-based application with a Fiori front end, or a documented end-to-end implementation scenario including testing and
