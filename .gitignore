@@ -6,7 +6,7 @@ __pycache__/
 .env
 .env.*
 !.env.example
-*.faiss
+vectorstore/*.faiss
 data/resumes/*
 !data/resumes/.gitkeep
 data/.parse_cache/
