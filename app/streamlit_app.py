@@ -16,8 +16,14 @@ import logging
 import os
 from pathlib import Path
 import re
+import sys
 import tempfile
 from typing import Any, Dict, List, Optional
+
+# Ensure repository root is on sys.path for Streamlit Cloud deployment
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 import streamlit as st
 
