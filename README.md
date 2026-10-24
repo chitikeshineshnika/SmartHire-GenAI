@@ -105,64 +105,7 @@ graph TB
 
 ---
 
-### 2. End-to-End User Workflow Pipeline
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Candidate as Candidate / User
-    participant Streamlit as Streamlit Interface
-    participant Guardrails as Safety Guardrails
-    participant Parser as Resume Parser
-    participant FAISS as FAISS Vector Store
-    participant Gemini as Google Gemini LLM
-    participant Memory as Conversational Memory
-
-    %% Phase 1: Upload & Parse
-    rect rgb(240, 249, 255)
-    Note over Candidate, Parser: Phase 1: Resume Upload & Structured Parsing
-    Candidate->>Streamlit: Upload Resume (PDF / DOCX)
-    Streamlit->>Guardrails: Validate file size, type & page limits
-    Guardrails->>Parser: Safe document text stream
-    Parser->>Gemini: Extract structured ResumeProfile (Pydantic schema)
-    Gemini-->>Streamlit: Candidate profile (Skills, Experience, Level, Contact)
-    end
-
-    %% Phase 2: Semantic Matching
-    rect rgb(240, 253, 244)
-    Note over Candidate, Gemini: Phase 2: Semantic Job Matching & Reranking
-    Streamlit->>FAISS: Vector search candidate profile embedding
-    FAISS-->>Streamlit: Top candidate job matches (IndexFlatIP)
-    Streamlit->>Gemini: Two-stage evaluation & fit rationale generation
-    Gemini-->>Streamlit: Multi-factor score + Qualitative match rationale
-    Candidate->>Streamlit: Filter by Location, Seniority & Similarity threshold
-    end
-
-    %% Phase 3: CV Improvement
-    rect rgb(255, 247, 237)
-    Note over Candidate, Gemini: Phase 3: CV Tailoring & Gap Analysis
-    Candidate->>Streamlit: Select Target Job Opportunity
-    Streamlit->>Gemini: Run gap analysis (Missing Skills vs Missing Evidence)
-    Streamlit->>Gemini: Rewrite bullets using STAR method (Fact-Grounded)
-    Gemini-->>Streamlit: Tailored summary, STAR bullets & ATS resume preview
-    Candidate->>Streamlit: Download ATS Markdown / Text Resume
-    end
-
-    %% Phase 4: AI Career Mentor
-    rect rgb(250, 245, 255)
-    Note over Candidate, Memory: Phase 4: RAG Career Mentor Chat Session
-    Candidate->>Streamlit: Ask career question or interview advice
-    Streamlit->>Guardrails: Run prompt injection & off-topic check
-    Guardrails->>FAISS: Retrieve top relevant career roadmaps & job market data
-    FAISS-->>Streamlit: Grounded document chunks & authentic citations
-    Streamlit->>Memory: Retrieve multi-turn chat history
-    Streamlit->>Gemini: Synthesize grounded response + verified citations
-    Gemini-->>Streamlit: Streaming mentor guidance response
-    Streamlit->>Candidate: Live response in interactive chat container
-    end
-```
-
----
 
 ## 📂 Repository Directory Layout
 
